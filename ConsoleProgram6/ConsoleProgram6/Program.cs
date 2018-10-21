@@ -46,7 +46,7 @@ namespace ConsoleProgram6
 
             else if (determinerX >= 6 || determinerX <= 2)
             {
-                Console.WriteLine("Sorry, the descrambler can only do 3 to 6 letters at this time. Try again.");
+                Console.WriteLine("Sorry, the descrambler can only do 3 to 5 letters at this time. Try again.");
                 Console.ReadLine();
             }
 
