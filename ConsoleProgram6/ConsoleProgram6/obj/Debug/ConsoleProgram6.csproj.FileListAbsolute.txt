@@ -1,0 +1,7 @@
+C:\Users\Shawna's Laptop\Desktop\ConsoleProgram6\ConsoleProgram6\bin\Debug\ConsoleProgram6.exe.config
+C:\Users\Shawna's Laptop\Desktop\ConsoleProgram6\ConsoleProgram6\bin\Debug\ConsoleProgram6.exe
+C:\Users\Shawna's Laptop\Desktop\ConsoleProgram6\ConsoleProgram6\bin\Debug\ConsoleProgram6.pdb
+C:\Users\Shawna's Laptop\Desktop\ConsoleProgram6\ConsoleProgram6\obj\Debug\ConsoleProgram6.csprojAssemblyReference.cache
+C:\Users\Shawna's Laptop\Desktop\ConsoleProgram6\ConsoleProgram6\obj\Debug\ConsoleProgram6.csproj.CoreCompileInputs.cache
+C:\Users\Shawna's Laptop\Desktop\ConsoleProgram6\ConsoleProgram6\obj\Debug\ConsoleProgram6.exe
+C:\Users\Shawna's Laptop\Desktop\ConsoleProgram6\ConsoleProgram6\obj\Debug\ConsoleProgram6.pdb
